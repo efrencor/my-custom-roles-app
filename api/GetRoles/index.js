@@ -5,7 +5,8 @@ const roleGroupMappings = {
     'admin': '21a96550-aa02-486e-9297-e6e51b6398fc',
     'reader': '33bb071c-118d-40d1-a5d7-7ced5900b973',
     'devopsValue': '9ae14da9-0f76-44b5-9acc-772d7a3892cb',
-    'oca': '72c4ccd4-6b6b-4f12-ae35-10f331962611'
+    'oca': '72c4ccd4-6b6b-4f12-ae35-10f331962611',
+    'devops': 'c7db0cc1-b2dd-411b-bb15-628dc100cf8a'
 };
 
 module.exports = async function (context, req) {
