@@ -4,7 +4,6 @@ const fetch = require('node-fetch').default;
 const roleGroupMappings = {
     'admin': '286634bd-6d43-4638-a239-46c35bc60cc3',
     'reader': '33bb071c-118d-40d1-a5d7-7ced5900b973',
-    'devopsValue': '9ae14da9-0f76-44b5-9acc-772d7a3892cb',
     'devops': 'c7db0cc1-b2dd-411b-bb15-628dc100cf8a',
 };
 
